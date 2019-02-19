@@ -2,7 +2,7 @@
 *** Author: R. Erdem Uysal                                                                                                    ***
 *** Company: Atılım University                                                                                                ***
 *** Create Date: 21:16:00 10/28/2015                                                                                          ***
-*** Project Name: IP Parsing from Log Data	                                                                                ***
+*** Project Name: IP Parsing from Log Data	                                                                              ***
 *** Additional Comments:                                                                                                      ***
 ***                                                                                                                           ***
 *** This project have done for CS101- Introduction to Programming with C/C++ course.                                          ***
