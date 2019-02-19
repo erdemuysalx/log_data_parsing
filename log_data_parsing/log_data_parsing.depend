@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550590436 source:c:\users\asus\projects\c++\logdataparsing\log_data_parsing\main.cpp
+	<fstream>
+	<string>
+	<vector>
+	<string.h>
+	<stdio.h>
+	<iostream>
+
