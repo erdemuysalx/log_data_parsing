@@ -1,4 +1,4 @@
-# Log Data Parsing
+# Log Data Parsing-an amazing project
 This repository consists of a project I have done in the 
 * **CS101 Introduction to Programming with C/C++** 
 at my first year in the Atılım University.
